@@ -29,7 +29,7 @@ The goal is to strengthen my understanding of JavaScript fundamentals, advanced 
 
 ## ✅ Progress Tracking
 
-- [ ] 01 - [Intro to JavaScript](./01%20-%20Intro%20to%20JavaScript/index.js)
+- [x] 01 - [Intro to JavaScript](./01%20-%20Intro%20to%20JavaScript/index.js)
 - [ ] 02 - [Callbacks](./02%20-%20Callbacks/index.js)
 - [ ] 03 - [Closures](./03%20-%20Closures/index.js)
 - [ ] 04 - [Asynchronous JavaScript](./04%20-%20Asynchronous%20JavaScript/index.js)

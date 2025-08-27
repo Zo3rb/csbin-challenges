@@ -289,18 +289,25 @@ console.log(highestScore(students)); //=> 'LS2'
  * Challenge 15 *
  * ============ */
 
-// TODO: Solve this.
 function leastCommonMultiple(num1, num2) {
   // your code here...
+
+  let lcm = Math.max(num1, num2);
+  while (true) {
+    if (lcm % num1 === 0 && lcm % num2 === 0) {
+      return lcm;
+    }
+    lcm++;
+  }
 }
 
 //Uncomment the lines below to test your function:
 
 console.log("\n Challenge Fifteen Tests ------------- \n");
 
-// console.log(leastCommonMultiple(2, 3)); //=> 6
-// console.log(leastCommonMultiple(6, 10)); //=> 30
-// console.log(leastCommonMultiple(24, 26)); //=> 312
+console.log(leastCommonMultiple(2, 3)); //=> 6
+console.log(leastCommonMultiple(6, 10)); //=> 30
+console.log(leastCommonMultiple(24, 26)); //=> 312
 
 /* ========== *
  * Extension 1 *
