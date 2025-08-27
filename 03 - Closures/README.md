@@ -96,3 +96,7 @@
   You may assume that the given array is long enough to give a 'bust' before running out of numbers.
 
   BONUS: Implement `blackjack` so the DEALER function can return more PLAYER functions that will each continue to take the next number in the array after the previous PLAYER function left off. You will just need to make sure the array has enough numbers for all the PLAYER functions.
+
+---
+
+- ### Solutions: [HERE](./index.js)

@@ -99,3 +99,7 @@
 
   Create a function `passingStudents` that accepts an array of student objects.  
   It should iterate through the list of students and return an array of the names of all the students who have an average grade of at least 70.
+
+---
+
+- ### Solutions: [HERE](./index.js)

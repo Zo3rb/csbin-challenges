@@ -70,3 +70,7 @@
   Additional calls to the returned function within the `interval` time should not be invoked or queued, but the timer should still get reset.
 
   **For examples of debouncing**, check out https://css-tricks.com/debouncing-throttling-explained-examples/
+
+---
+
+- ### Solutions: [HERE](./index.js)

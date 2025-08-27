@@ -53,3 +53,7 @@
 - ### Challenge 10
 
   Write a function `getRangeBetween` that returns an array of all integers between values `x` and `y`, not including `x` and `y`.
+
+---
+
+- ### Solutions: [HERE](./index.js)
