@@ -38,7 +38,7 @@ The aim is to reinforce core concepts and ensure clarity, rather than optimize f
 ## ✅ Progress Tracking
 
 - [x] 01 - [Intro to JavaScript](./01%20-%20Intro%20to%20JavaScript/README.md)
-- [ ] 02 - [Callbacks](./02%20-%20Callbacks/README.md)
+- [x] 02 - [Callbacks](./02%20-%20Callbacks/README.md)
 - [ ] 03 - [Closures](./03%20-%20Closures/README.md)
 - [ ] 04 - [Asynchronous JavaScript](./04%20-%20Asynchronous%20JavaScript/README.md)
 - [ ] 05 - [Object-Oriented Programming](./06%20-%20Object-Oriented%20Programming/README.md)
